@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Data storage</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Advance">Advance</string>
+    <string name="SaveContent">SaveContent</string>
+</resources>
