@@ -11,6 +11,7 @@
         android:layout_height="wrap_content"
         android:text="@string/Advance"
         android:onClick="Advance"/>
+
     <Button
         android:id="@+id/SaveContent"
         android:layout_width="wrap_content"
